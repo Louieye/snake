@@ -1,0 +1,7 @@
+.main {
+    height: 800px;
+    width: 800px;
+    position: relative;
+    background-color: lightgray;
+    margin: 0 auto;
+}
